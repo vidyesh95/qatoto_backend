@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.14"
 dependencies = [
-    "fastapi[standard]>=0.118.1",
+    "fastapi[standard]>=0.118.2",
     "pwdlib[argon2]>=0.2.1",
     "pyjwt[crypto]>=2.10.1",
 ]
